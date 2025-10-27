@@ -5,7 +5,6 @@ import game_world
 
 # Game object class here
 
-
 def handle_events():
     global running
 
