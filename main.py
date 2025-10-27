@@ -34,7 +34,6 @@ def reset_world():
 
 
 
-
 def update_world():
     game_world.update()
 
